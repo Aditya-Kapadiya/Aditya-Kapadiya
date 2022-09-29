@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya-Kapadiya
 - 👀 I’m interested in learning more about Ethical-Hacking, Cyber Security. Web Development, Web Design, and many more IT stuff.
-- 🌱 I’m currently pursuing BCA.
+- 🌱 I’m a BCA gradate and currently pursuing my post graduation in Cyber Security.
 - 💞️ I’m looking to collaborate on web development and any stuff that i know about.
 - 📫 How to reach me? "You can reach me through e-mail"
 
